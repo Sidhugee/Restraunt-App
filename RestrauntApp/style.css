@@ -1,0 +1,44 @@
+.nav-link:hover {
+    color: red !important;
+}
+
+.main {
+    background-image: url(./bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.pt-11 {
+    padding-top: 11rem !important;
+}
+
+.text-gray {
+    color: grey;
+}
+
+.h-16 {
+    height: 16rem !important;
+}
+
+.rounded-5 {
+    border-radius: 2.3rem !important;
+}
+
+.card img:hover {
+    opacity: 0.7 !important;
+}
+
+h5:hover {
+    color: red !important;
+}
+
+.expert:hover {
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 40px #000;
+}
+
+.testominal:hover {
+    transform: scale(1.05) !important;
+}
